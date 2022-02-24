@@ -1,0 +1,5 @@
+different difficulties:
+ different original velocity of ball
+
+
+start interface with options
